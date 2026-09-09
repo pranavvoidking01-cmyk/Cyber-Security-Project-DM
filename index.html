@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Forensic Graph Explorer for GNN-backed cyber attack investigation">
+  <title>Forensic Graph Explorer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="explorer" aria-label="Forensic Graph Explorer">
+    <section class="canvas-shell" aria-label="Attention graph canvas">
+      <svg id="graph" role="img" aria-label="Interactive two-hop attack graph"></svg>
+      <div class="canvas-caption">
+        <span class="caption-kicker">Live investigation</span>
+        <h1>Forensic Graph Explorer</h1>
+        <p id="graph-summary">Loading attention graph...</p>
+      </div>
+      <div class="legend" aria-label="Graph legend">
+        <span><i class="legend-dot threat"></i>Threat</span>
+        <span><i class="legend-dot benign"></i>Benign</span>
+        <span><i class="legend-line"></i>Attention strength</span>
+      </div>
+      <div id="loading" class="loading-state">Loading forensic graph<span class="loading-rule"></span></div>
+    </section>
+
+    <aside id="context-panel" class="context-panel" aria-label="Selected node context" aria-live="polite">
+      <button id="close-panel" class="icon-button" type="button" aria-label="Close context panel" title="Close context panel">×</button>
+      <div class="panel-kicker">Selected evidence</div>
+      <div class="node-status-row">
+        <span id="node-status" class="status-badge">Threat</span>
+        <span id="node-index" class="data-text">node --</span>
+      </div>
+      <h2 id="node-id" class="node-id">--</h2>
+      <div class="confidence-block">
+        <div class="confidence-label"><span>Attack confidence</span><strong id="confidence-value">--</strong></div>
+        <div class="confidence-track"><span id="confidence-fill"></span></div>
+      </div>
+      <div class="panel-section">
+        <div class="section-heading"><span>Model disposition</span><span id="prediction" class="data-text">--</span></div>
+        <p id="node-note" class="node-note">Select a node to inspect its behavioral fingerprint.</p>
+      </div>
+      <div class="panel-section">
+        <div class="section-heading"><span>Behavioral fingerprint</span><span class="data-text">11 signals</span></div>
+        <div id="feature-list" class="feature-list"></div>
+      </div>
+      <button id="isolate-button" class="primary-action" type="button">Isolate node</button>
+    </aside>
+
+    <nav class="command-pill" aria-label="Graph commands">
+      <button id="focus-target" class="command active" type="button"><span class="command-icon">◎</span>Focus threat</button>
+      <button id="reset-view" class="command" type="button"><span class="command-icon">↺</span>Reset view</button>
+      <span class="command-divider" aria-hidden="true"></span>
+      <span id="edge-count" class="command-readout">-- edges</span>
+    </nav>
+    <div id="toast" class="toast" role="status"></div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="app.js"></script>
+</body>
+</html>

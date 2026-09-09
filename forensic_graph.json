@@ -1,0 +1,3339 @@
+{
+  "target_node": "3232238099",
+  "hops": 2,
+  "nodes": [
+    {
+      "id": "89080202",
+      "node_index": 53,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.801546573638916,
+      "features": {
+        "In-degree": 0.09607371687889099,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.12296764552593231,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2788180112838745,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.6742801666259766
+      }
+    },
+    {
+      "id": "89080204",
+      "node_index": 54,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7649948596954346,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.2973831593990326,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.291550874710083,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.2146918624639511
+      }
+    },
+    {
+      "id": "136961777",
+      "node_index": 123,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7811577916145325,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 5.512792587280273,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.23118683695793152,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.5482795834541321
+      }
+    },
+    {
+      "id": "400788170",
+      "node_index": 1441,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8659152984619141,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.41668441891670227,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2890271544456482,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.8891152739524841
+      }
+    },
+    {
+      "id": "531386784",
+      "node_index": 1495,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7061039209365845,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.0884719118475914,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2470652312040329,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.1555609703063965
+      }
+    },
+    {
+      "id": "633034282",
+      "node_index": 2160,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7025033831596375,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.20333625376224518,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2900463342666626,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9274616837501526
+      }
+    },
+    {
+      "id": "642286219",
+      "node_index": 2204,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7305572628974915,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.8062800168991089,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27342215180397034,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.08199246972799301
+      }
+    },
+    {
+      "id": "642286235",
+      "node_index": 2205,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7928075790405273,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 3.2301084995269775,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27138862013816833,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.150803565979004
+      }
+    },
+    {
+      "id": "676564945",
+      "node_index": 2242,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8783418536186218,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.3332013189792633,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.28376418352127075,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.4278128147125244
+      }
+    },
+    {
+      "id": "1072786535",
+      "node_index": 6054,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7463933229446411,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.7188578844070435,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.19160214066505432,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1529392004013062
+      }
+    },
+    {
+      "id": "1072786536",
+      "node_index": 6055,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7448116540908813,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.6212842464447021,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.20819517970085144,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1658886671066284
+      }
+    },
+    {
+      "id": "1073439244",
+      "node_index": 6070,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8091395497322083,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.1842244267463684,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3074815273284912
+      }
+    },
+    {
+      "id": "1073475596",
+      "node_index": 6081,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7811493277549744,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 3.3720641136169434,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.17278772592544556,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3128255605697632
+      }
+    },
+    {
+      "id": "1073478668",
+      "node_index": 6084,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7453657984733582,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.181559681892395,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.20764745771884918,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3043931722640991
+      }
+    },
+    {
+      "id": "1093954771",
+      "node_index": 6181,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9338403940200806,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4011528491973877,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.5608634948730469,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.398430585861206
+      }
+    },
+    {
+      "id": "1100586627",
+      "node_index": 6203,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8635950088500977,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4202803075313568,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.28826650977134705,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.7565913200378418
+      }
+    },
+    {
+      "id": "1145281094",
+      "node_index": 6411,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6049690842628479,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.21573948860168457,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.2887976169586182
+      }
+    },
+    {
+      "id": "1163479618",
+      "node_index": 6474,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7762889862060547,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.19320973753929138,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27403968572616577,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0196294784545898
+      }
+    },
+    {
+      "id": "1249232742",
+      "node_index": 6660,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.758174479007721,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.8157954216003418,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.04836402088403702,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3429992198944092
+      }
+    },
+    {
+      "id": "1249294975",
+      "node_index": 6668,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8718833923339844,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4263518750667572,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.15311199426651,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.29844069480896
+      }
+    },
+    {
+      "id": "1255756243",
+      "node_index": 6808,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8686508536338806,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3889129161834717,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27884504199028015,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.5694323182106018
+      }
+    },
+    {
+      "id": "1255800125",
+      "node_index": 6814,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7434108853340149,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 2.9188411235809326,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2541408836841583,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.1061193123459816
+      }
+    },
+    {
+      "id": "1307474396",
+      "node_index": 6872,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.870377779006958,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2952909469604492,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0667146444320679
+      }
+    },
+    {
+      "id": "1347602782",
+      "node_index": 6917,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7882369756698608,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.000229001045227,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.04036234691739082,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3388450145721436
+      }
+    },
+    {
+      "id": "1407084646",
+      "node_index": 6977,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7897606492042542,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.03190546855330467,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.256868839263916,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1268129348754883
+      }
+    },
+    {
+      "id": "1540932570",
+      "node_index": 7192,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7240105271339417,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.055541668087244034,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27649787068367004,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.6734498143196106
+      }
+    },
+    {
+      "id": "1604542246",
+      "node_index": 7324,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8721999526023865,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.41203737258911133,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2091940939426422,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3194931745529175
+      }
+    },
+    {
+      "id": "1604542377",
+      "node_index": 7328,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8609247803688049,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.7295951843261719,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.0830816924571991,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3636910915374756
+      }
+    },
+    {
+      "id": "1757500217",
+      "node_index": 8452,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7521692514419556,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.0814827680587769,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27836349606513977,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.975181519985199
+      }
+    },
+    {
+      "id": "1841922617",
+      "node_index": 8723,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9172731637954712,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.29434943199157715,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.815851628780365
+      }
+    },
+    {
+      "id": "1841922618",
+      "node_index": 8724,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9177201986312866,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2952890396118164,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.944299042224884
+      }
+    },
+    {
+      "id": "1845030178",
+      "node_index": 8737,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8279713988304138,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.35433685779571533,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2700592875480652,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1287671327590942
+      }
+    },
+    {
+      "id": "1845030180",
+      "node_index": 8738,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8188857436180115,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3379339575767517,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.28177106380462646,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9841783046722412
+      }
+    },
+    {
+      "id": "1845030181",
+      "node_index": 8739,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7785436511039734,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.2613825500011444,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.28578096628189087,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9176537990570068
+      }
+    },
+    {
+      "id": "1970871300",
+      "node_index": 8836,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7807602286338806,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3561071455478668,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2609217166900635,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.4317414462566376
+      }
+    },
+    {
+      "id": "1981468055",
+      "node_index": 8841,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8147372603416443,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3384456932544708,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.25362423062324524,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1302378177642822
+      }
+    },
+    {
+      "id": "2032689440",
+      "node_index": 8908,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8667154908180237,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4186483323574066,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.17646589875221252,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3401665687561035
+      }
+    },
+    {
+      "id": "2214404854",
+      "node_index": 9069,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9340064525604248,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3691907227039337,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.5636001229286194,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3979074954986572
+      }
+    },
+    {
+      "id": "2303360995",
+      "node_index": 9178,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8211489319801331,
+      "features": {
+        "In-degree": 0.09607371687889099,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.22441381216049194,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2785322070121765,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9030949473381042
+      }
+    },
+    {
+      "id": "2322335252",
+      "node_index": 9190,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7485865354537964,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.7734742164611816,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.23368282616138458,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1879650354385376
+      }
+    },
+    {
+      "id": "2322346596",
+      "node_index": 9193,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.726752758026123,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.8299210667610168,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.24157942831516266,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0978420972824097
+      }
+    },
+    {
+      "id": "2574811290",
+      "node_index": 9799,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7395220994949341,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.08854371309280396,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2800966501235962,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1068297624588013
+      }
+    },
+    {
+      "id": "2627389476",
+      "node_index": 9809,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7627255320549011,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 2.432839870452881,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.30760979652404785,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3495324850082397
+      }
+    },
+    {
+      "id": "2627389984",
+      "node_index": 9811,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7290886044502258,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.15470847487449646,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.060533881187438965,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3332103490829468
+      }
+    },
+    {
+      "id": "2627389988",
+      "node_index": 9812,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.735011100769043,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.9695253968238831,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.06902856379747391,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3402760028839111
+      }
+    },
+    {
+      "id": "2734166040",
+      "node_index": 9945,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8066000938415527,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.024738071486353874,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3486844301223755
+      }
+    },
+    {
+      "id": "2734166044",
+      "node_index": 9947,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8067607283592224,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.012016878463327885,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3551974296569824
+      }
+    },
+    {
+      "id": "2734166046",
+      "node_index": 9948,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.747248113155365,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.2862836122512817,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.020520886406302452,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.320682168006897
+      }
+    },
+    {
+      "id": "2734651385",
+      "node_index": 9961,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8375898599624634,
+      "features": {
+        "In-degree": 0.09607371687889099,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.43104037642478943,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.09045613557100296,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3932055234909058
+      }
+    },
+    {
+      "id": "2886729729",
+      "node_index": 10123,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7165480256080627,
+      "features": {
+        "In-degree": 0.09607371687889099,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -1.269057035446167
+      }
+    },
+    {
+      "id": "2917644623",
+      "node_index": 10489,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7789201140403748,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.2689339518547058,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.28441181778907776,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9924912452697754
+      }
+    },
+    {
+      "id": "2990459084",
+      "node_index": 10619,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8609444499015808,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.41509389877319336,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.29064908623695374,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.5982462167739868
+      }
+    },
+    {
+      "id": "3104812935",
+      "node_index": 10942,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7675824761390686,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.1658557951450348,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2512463331222534,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1913509368896484
+      }
+    },
+    {
+      "id": "3107017800",
+      "node_index": 10964,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9142706394195557,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2952907681465149,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9879681468009949
+      }
+    },
+    {
+      "id": "3109456669",
+      "node_index": 11016,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6964561343193054,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.9598668813705444,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27564767003059387,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.0061626434326172
+      }
+    },
+    {
+      "id": "3109456672",
+      "node_index": 11017,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8156834840774536,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.29660865664482117,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2820204496383667,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.2275915890932083
+      }
+    },
+    {
+      "id": "3109456698",
+      "node_index": 11018,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6108355522155762,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.27411773800849915,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.1559362411499023
+      }
+    },
+    {
+      "id": "3160156241",
+      "node_index": 11072,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9409782886505127,
+      "features": {
+        "In-degree": -1.3759040832519531,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.29906269907951355,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.016653144732117653
+      }
+    },
+    {
+      "id": "3164938487",
+      "node_index": 11082,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7571411728858948,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.14367179572582245,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.209817573428154,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.7188191413879395
+      }
+    },
+    {
+      "id": "3223583096",
+      "node_index": 11138,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7130932211875916,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 2.6758127212524414,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2171003818511963,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.1045830249786377
+      }
+    },
+    {
+      "id": "3223583103",
+      "node_index": 11141,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7856448888778687,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.26037654280662537,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 2.0319697856903076
+      }
+    },
+    {
+      "id": "3226661397",
+      "node_index": 11154,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8015557527542114,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.4300292730331421,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.356515645980835
+      }
+    },
+    {
+      "id": "3226661399",
+      "node_index": 11155,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7983823418617249,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 4.975273132324219,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.6378114223480225,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3593515157699585
+      }
+    },
+    {
+      "id": "3226661406",
+      "node_index": 11157,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7137675881385803,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6481062769889832,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.25728341937065125,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.2112632542848587
+      }
+    },
+    {
+      "id": "3226661426",
+      "node_index": 11158,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.800174355506897,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.5394665002822876,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3562209606170654
+      }
+    },
+    {
+      "id": "3226661468",
+      "node_index": 11159,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7715085744857788,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.235512137413025,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.1731889396905899,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3117166757583618
+      }
+    },
+    {
+      "id": "3229884699",
+      "node_index": 11196,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6518239378929138,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.7133306264877319,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.15653955936431885,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.2404885292053223
+      }
+    },
+    {
+      "id": "3232238081",
+      "node_index": 11202,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.72430419921875,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 3.519392490386963,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -1.179770827293396
+      }
+    },
+    {
+      "id": "3232238083",
+      "node_index": 11203,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9136824607849121,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -1.3119157552719116
+      }
+    },
+    {
+      "id": "3232238085",
+      "node_index": 11204,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9406856894493103,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.06007804721593857,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.9224242568016052
+      }
+    },
+    {
+      "id": "3232238088",
+      "node_index": 11205,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9563484191894531,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3462875485420227,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -1.08831787109375
+      }
+    },
+    {
+      "id": "3232238089",
+      "node_index": 11206,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9309129118919373,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6066564917564392,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.9023370146751404
+      }
+    },
+    {
+      "id": "3232238092",
+      "node_index": 11207,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.934990644454956,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6957244873046875,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.8551145195960999
+      }
+    },
+    {
+      "id": "3232238094",
+      "node_index": 11208,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9417446851730347,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.026497773826122284,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.8617178797721863
+      }
+    },
+    {
+      "id": "3232238095",
+      "node_index": 11209,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9448278546333313,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.016957426443696022,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.8643734455108643
+      }
+    },
+    {
+      "id": "3232238096",
+      "node_index": 11210,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9372957944869995,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6895837783813477,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.8161780834197998
+      }
+    },
+    {
+      "id": "3232238097",
+      "node_index": 11211,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9355623722076416,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6966925859451294,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.7358506321907043
+      }
+    },
+    {
+      "id": "3232238099",
+      "node_index": 11212,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9204925894737244,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 4.888169288635254,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.7847558259963989
+      }
+    },
+    {
+      "id": "3232238105",
+      "node_index": 11213,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8854077458381653,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.6593732833862305,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -1.008529543876648
+      }
+    },
+    {
+      "id": "3232238130",
+      "node_index": 11214,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8512123823165894,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -1.2672672271728516
+      }
+    },
+    {
+      "id": "3232238131",
+      "node_index": 11215,
+      "label": "Malicious",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9474808573722839,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6608994603157043,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": 0.09445693343877792,
+        "Flow duration": -0.7087312340736389
+      }
+    },
+    {
+      "id": "3236983606",
+      "node_index": 11264,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8201445937156677,
+      "features": {
+        "In-degree": 0.09607371687889099,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.39485734701156616,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.06038927659392357,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1463929414749146
+      }
+    },
+    {
+      "id": "3237164704",
+      "node_index": 11268,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8276653289794922,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.39299288392066956,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2796735167503357,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0606783628463745
+      }
+    },
+    {
+      "id": "3237214788",
+      "node_index": 11278,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7230424284934998,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.12798544764518738,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2809147536754608,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0021107196807861
+      }
+    },
+    {
+      "id": "3237797524",
+      "node_index": 11288,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7758956551551819,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.29558518528938293,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.20096980035305023,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.14071057736873627
+      }
+    },
+    {
+      "id": "3263077654",
+      "node_index": 11330,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7336294054985046,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.1954779177904129,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.15877239406108856,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.288346290588379
+      }
+    },
+    {
+      "id": "3275108580",
+      "node_index": 11371,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7718520164489746,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.10544184595346451,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2211982160806656,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.8042017817497253
+      }
+    },
+    {
+      "id": "3322431187",
+      "node_index": 11442,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8076188564300537,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.151371002197266,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2623152732849121,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0403202772140503
+      }
+    },
+    {
+      "id": "3322431188",
+      "node_index": 11443,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8094215989112854,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.814304828643799,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27354252338409424,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0368298292160034
+      }
+    },
+    {
+      "id": "3325430929",
+      "node_index": 11475,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6623009443283081,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 2.0127129554748535,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2591038942337036,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.690792202949524
+      }
+    },
+    {
+      "id": "3325632031",
+      "node_index": 11478,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6401821970939636,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.06187865138053894,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.29069072008132935,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.1146734952926636
+      }
+    },
+    {
+      "id": "3335742996",
+      "node_index": 11503,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7990530729293823,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.3797433376312256,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.032286178320646286,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.4346001148223877
+      }
+    },
+    {
+      "id": "3335743055",
+      "node_index": 11505,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7821218967437744,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.35902535915374756,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.22077743709087372,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.48595401644706726
+      }
+    },
+    {
+      "id": "3338456601",
+      "node_index": 11518,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7639693021774292,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.07757353782653809,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.127483606338501
+      }
+    },
+    {
+      "id": "3338620214",
+      "node_index": 11520,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8044307827949524,
+      "features": {
+        "In-degree": 0.4640681743621826,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.35028189420700073,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.4796413481235504,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.046247124671936
+      }
+    },
+    {
+      "id": "3339754571",
+      "node_index": 11531,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6779974102973938,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.2532891035079956,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.06006146967411041,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.20601557195186615
+      }
+    },
+    {
+      "id": "3339754601",
+      "node_index": 11532,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7009053826332092,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.10934467613697052,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.00042965143802575767,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.09180013090372086
+      }
+    },
+    {
+      "id": "3339754857",
+      "node_index": 11538,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7396340370178223,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.19957172870635986,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.08737166225910187,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.19156904518604279
+      }
+    },
+    {
+      "id": "3341198390",
+      "node_index": 11543,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.802973210811615,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 5.598762512207031,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27811822295188904,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.030839204788208
+      }
+    },
+    {
+      "id": "3341198391",
+      "node_index": 11544,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7962590456008911,
+      "features": {
+        "In-degree": 2.672034978866577,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 4.83489465713501,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27649733424186707,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.0409960746765137
+      }
+    },
+    {
+      "id": "3350970625",
+      "node_index": 11590,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6169140338897705,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.5591905117034912,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.0715265274047852
+      }
+    },
+    {
+      "id": "3350970754",
+      "node_index": 11592,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6675335168838501,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 2.7213563919067383,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 4.289686679840088,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.388750433921814
+      }
+    },
+    {
+      "id": "3350970757",
+      "node_index": 11593,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7313057780265808,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.24511796236038208,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2839411795139313,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.4479402005672455
+      }
+    },
+    {
+      "id": "3350970764",
+      "node_index": 11594,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6014369130134583,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.358616828918457,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.3762612342834473
+      }
+    },
+    {
+      "id": "3354669106",
+      "node_index": 11603,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8835945129394531,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.2981672286987305,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 6.0597453117370605,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.396276831626892
+      }
+    },
+    {
+      "id": "3354669368",
+      "node_index": 11610,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8739888668060303,
+      "features": {
+        "In-degree": -0.6399151682853699,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 6.9133501052856445,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 6.031803131103516,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3949395418167114
+      }
+    },
+    {
+      "id": "3422748649",
+      "node_index": 11744,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6182530522346497,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.07948478311300278,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 8.230012893676758,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.8212867975234985
+      }
+    },
+    {
+      "id": "3422748650",
+      "node_index": 11745,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.6822962760925293,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.1151672825217247,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2841813266277313,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 1.2767179012298584
+      }
+    },
+    {
+      "id": "3423453928",
+      "node_index": 11764,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.767267107963562,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.2090870589017868,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.290670782327652,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.20907695591449738
+      }
+    },
+    {
+      "id": "3459690852",
+      "node_index": 11873,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8552727103233337,
+      "features": {
+        "In-degree": -1.0079096555709839,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.41106924414634705,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2925814986228943,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.5932812690734863
+      }
+    },
+    {
+      "id": "3495029024",
+      "node_index": 11961,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7469512820243835,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.2984267473220825,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.2754282057285309,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3440678119659424
+      }
+    },
+    {
+      "id": "3495029040",
+      "node_index": 11963,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7555280327796936,
+      "features": {
+        "In-degree": 2.3040404319763184,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.9992746710777283,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": 0.26907187700271606,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.3541876077651978
+      }
+    },
+    {
+      "id": "3507430421",
+      "node_index": 12043,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7598594427108765,
+      "features": {
+        "In-degree": 1.200057029724121,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.2771768867969513,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.24154628813266754,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.2332661151885986
+      }
+    },
+    {
+      "id": "3507430432",
+      "node_index": 12047,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7374997138977051,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.07829272001981735,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.27767932415008545,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1562919616699219
+      }
+    },
+    {
+      "id": "3507430433",
+      "node_index": 12048,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7293830513954163,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.11513697355985641,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.25920385122299194,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.1729832887649536
+      }
+    },
+    {
+      "id": "3507430434",
+      "node_index": 12049,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7367275357246399,
+      "features": {
+        "In-degree": 1.9360461235046387,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.0437304824590683,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2784276008605957,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -1.158771276473999
+      }
+    },
+    {
+      "id": "3524166726",
+      "node_index": 12136,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.818421483039856,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.29529258608818054,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.7162597179412842
+      }
+    },
+    {
+      "id": "3559743775",
+      "node_index": 12217,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.9411400556564331,
+      "features": {
+        "In-degree": -1.3759040832519531,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.4331149458885193,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.29906269907951355,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.7441781759262085
+      }
+    },
+    {
+      "id": "3586400968",
+      "node_index": 12325,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7811349034309387,
+      "features": {
+        "In-degree": 0.09607371687889099,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.236473947763443,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2882356345653534,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.4680192470550537
+      }
+    },
+    {
+      "id": "3630750427",
+      "node_index": 12410,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.8104366064071655,
+      "features": {
+        "In-degree": 0.8320626020431519,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 0.6365440487861633,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.2724834382534027,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.9579692482948303
+      }
+    },
+    {
+      "id": "3630750433",
+      "node_index": 12411,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.85090571641922,
+      "features": {
+        "In-degree": -0.27192074060440063,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": -0.28237712383270264,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.28329670429229736,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": -0.8238770365715027
+      }
+    },
+    {
+      "id": "3706968887",
+      "node_index": 12514,
+      "label": "Benign",
+      "prediction": "Malicious",
+      "attack_confidence": 0.7604874968528748,
+      "features": {
+        "In-degree": 1.5680515766143799,
+        "Out-degree": 9.930712699890137,
+        "In-bytes": 1.7655632495880127,
+        "Out-bytes": 0.0,
+        "Bytes ratio": 0.0,
+        "In packet rate": -0.13866044580936432,
+        "Out packet rate": 9.930712699890137,
+        "Unique destination ports": 9.930712699890137,
+        "Protocol entropy": -10.586835861206055,
+        "Flow duration": 0.4935893714427948
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "3232238085",
+      "target": "3232238083",
+      "attention_score": 0.03693227469921112,
+      "attention_normalized": 0.06848112912394916
+    },
+    {
+      "source": "3232238130",
+      "target": "3232238083",
+      "attention_score": 0.03367587924003601,
+      "attention_normalized": 0.062443005565771044
+    },
+    {
+      "source": "3232238094",
+      "target": "3232238083",
+      "attention_score": 0.03772544488310814,
+      "attention_normalized": 0.06995185331364762
+    },
+    {
+      "source": "3232238088",
+      "target": "3232238083",
+      "attention_score": 0.03884989395737648,
+      "attention_normalized": 0.07203684653097361
+    },
+    {
+      "source": "3232238099",
+      "target": "3232238083",
+      "attention_score": 0.0357087217271328,
+      "attention_normalized": 0.06621237395646208
+    },
+    {
+      "source": "3232238097",
+      "target": "3232238083",
+      "attention_score": 0.03497183322906494,
+      "attention_normalized": 0.0648460092579125
+    },
+    {
+      "source": "3232238089",
+      "target": "3232238083",
+      "attention_score": 0.03636334836483002,
+      "attention_normalized": 0.0674262058059549
+    },
+    {
+      "source": "3232238092",
+      "target": "3232238083",
+      "attention_score": 0.03615032136440277,
+      "attention_normalized": 0.06703120361229209
+    },
+    {
+      "source": "3232238131",
+      "target": "3232238083",
+      "attention_score": 0.03737839683890343,
+      "attention_normalized": 0.06930834456361917
+    },
+    {
+      "source": "3232238096",
+      "target": "3232238083",
+      "attention_score": 0.03513059392571449,
+      "attention_normalized": 0.06514038895306024
+    },
+    {
+      "source": "3232238130",
+      "target": "3232238099",
+      "attention_score": 0.049689024686813354,
+      "attention_normalized": 0.09213514584016257
+    },
+    {
+      "source": "3232238105",
+      "target": "3232238083",
+      "attention_score": 0.035801418125629425,
+      "attention_normalized": 0.06638425489492235
+    },
+    {
+      "source": "3232238096",
+      "target": "3232238130",
+      "attention_score": 0.043527331203222275,
+      "attention_normalized": 0.08070991599692712
+    },
+    {
+      "source": "3232238130",
+      "target": "3232238105",
+      "attention_score": 0.08705302327871323,
+      "attention_normalized": 0.16141679266527958
+    },
+    {
+      "source": "3232238092",
+      "target": "3232238130",
+      "attention_score": 0.04411382973194122,
+      "attention_normalized": 0.08179742229875439
+    },
+    {
+      "source": "3232238095",
+      "target": "3232238083",
+      "attention_score": 0.03847258910536766,
+      "attention_normalized": 0.07133723453848347
+    },
+    {
+      "source": "2886729729",
+      "target": "3232238130",
+      "attention_score": 0.04335259646177292,
+      "attention_normalized": 0.08038591666330662
+    },
+    {
+      "source": "3232238083",
+      "target": "3232238130",
+      "attention_score": 0.04291655123233795,
+      "attention_normalized": 0.07957738618680565
+    },
+    {
+      "source": "3232238083",
+      "target": "3232238105",
+      "attention_score": 0.08701746165752411,
+      "attention_normalized": 0.16135085305034
+    },
+    {
+      "source": "3232238081",
+      "target": "3232238083",
+      "attention_score": 0.03283322975039482,
+      "attention_normalized": 0.06088053509850841
+    },
+    {
+      "source": "3232238083",
+      "target": "3232238085",
+      "attention_score": 0.06505927443504333,
+      "attention_normalized": 0.12063520618706472
+    },
+    {
+      "source": "3232238089",
+      "target": "3232238130",
+      "attention_score": 0.0443473719060421,
+      "attention_normalized": 0.08223046445255468
+    },
+    {
+      "source": "3232238083",
+      "target": "3232238099",
+      "attention_score": 0.04962204396724701,
+      "attention_normalized": 0.09201094782249929
+    },
+    {
+      "source": "3232238094",
+      "target": "3232238130",
+      "attention_score": 0.04551045969128609,
+      "attention_normalized": 0.08438710293346262
+    },
+    {
+      "source": "3232238095",
+      "target": "3232238130",
+      "attention_score": 0.04575997218489647,
+      "attention_normalized": 0.08484975781817071
+    },
+    {
+      "source": "3232238088",
+      "target": "3232238130",
+      "attention_score": 0.04581419378519058,
+      "attention_normalized": 0.08495029742590648
+    },
+    {
+      "source": "3232238085",
+      "target": "3232238130",
+      "attention_score": 0.04473934695124626,
+      "attention_normalized": 0.08295727843578776
+    },
+    {
+      "source": "1145281094",
+      "target": "3232238088",
+      "attention_score": 0.005893947556614876,
+      "attention_normalized": 0.010928765881917083
+    },
+    {
+      "source": "3341198391",
+      "target": "3232238088",
+      "attention_score": 0.010674459859728813,
+      "attention_normalized": 0.019792960762260208
+    },
+    {
+      "source": "136961777",
+      "target": "3232238088",
+      "attention_score": 0.01005551964044571,
+      "attention_normalized": 0.018645299931132547
+    },
+    {
+      "source": "3226661399",
+      "target": "3232238088",
+      "attention_score": 0.01017005555331707,
+      "attention_normalized": 0.018857676469067282
+    },
+    {
+      "source": "3226661426",
+      "target": "3232238088",
+      "attention_score": 0.00990691315382719,
+      "attention_normalized": 0.0183697485311264
+    },
+    {
+      "source": "1073439244",
+      "target": "3232238088",
+      "attention_score": 0.0104383435100317,
+      "attention_normalized": 0.019355145481084773
+    },
+    {
+      "source": "3223583103",
+      "target": "3232238088",
+      "attention_score": 0.00954429805278778,
+      "attention_normalized": 0.01769737479409514
+    },
+    {
+      "source": "2627389476",
+      "target": "3232238088",
+      "attention_score": 0.009815648198127747,
+      "attention_normalized": 0.018200521824495233
+    },
+    {
+      "source": "1072786536",
+      "target": "3232238088",
+      "attention_score": 0.009866951033473015,
+      "attention_normalized": 0.018295649355098677
+    },
+    {
+      "source": "3507430433",
+      "target": "3232238088",
+      "attention_score": 0.009890720248222351,
+      "attention_normalized": 0.01833972307321328
+    },
+    {
+      "source": "1604542377",
+      "target": "3232238088",
+      "attention_score": 0.00958976335823536,
+      "attention_normalized": 0.017781678170433936
+    },
+    {
+      "source": "1073475596",
+      "target": "3232238088",
+      "attention_score": 0.010421156883239746,
+      "attention_normalized": 0.019323277430223284
+    },
+    {
+      "source": "3559743775",
+      "target": "3232238099",
+      "attention_score": 0.1805315464735031,
+      "attention_normalized": 0.3347479743851865
+    },
+    {
+      "source": "3232238094",
+      "target": "3232238099",
+      "attention_score": 0.05688317120075226,
+      "attention_normalized": 0.10547478658447292
+    },
+    {
+      "source": "3232238131",
+      "target": "3232238130",
+      "attention_score": 0.045253053307533264,
+      "attention_normalized": 0.0839098109186417
+    },
+    {
+      "source": "3232238105",
+      "target": "3232238130",
+      "attention_score": 0.04404906928539276,
+      "attention_normalized": 0.08167734118979675
+    },
+    {
+      "source": "3423453928",
+      "target": "3232238088",
+      "attention_score": 0.009934242814779282,
+      "attention_normalized": 0.018420424154434647
+    },
+    {
+      "source": "3232238097",
+      "target": "3232238130",
+      "attention_score": 0.043456584215164185,
+      "attention_normalized": 0.08057873443110712
+    },
+    {
+      "source": "3232238099",
+      "target": "3232238130",
+      "attention_score": 0.043830763548612595,
+      "attention_normalized": 0.08127255097661064
+    },
+    {
+      "source": "3339754601",
+      "target": "3232238088",
+      "attention_score": 0.009568986482918262,
+      "attention_normalized": 0.017743152953859267
+    },
+    {
+      "source": "1072786535",
+      "target": "3232238088",
+      "attention_score": 0.009868243709206581,
+      "attention_normalized": 0.01829804628013367
+    },
+    {
+      "source": "1407084646",
+      "target": "3232238088",
+      "attention_score": 0.010024912655353546,
+      "attention_normalized": 0.018588547377566277
+    },
+    {
+      "source": "3223583096",
+      "target": "3232238088",
+      "attention_score": 0.009677927941083908,
+      "attention_normalized": 0.01794515605614184
+    },
+    {
+      "source": "3325430929",
+      "target": "3232238088",
+      "attention_score": 0.009316205978393555,
+      "attention_normalized": 0.017274438407805508
+    },
+    {
+      "source": "1845030181",
+      "target": "3232238088",
+      "attention_score": 0.010018151253461838,
+      "attention_normalized": 0.01857601014719593
+    },
+    {
+      "source": "3630750427",
+      "target": "3232238088",
+      "attention_score": 0.010212594643235207,
+      "attention_normalized": 0.01893655395314387
+    },
+    {
+      "source": "2734166044",
+      "target": "3232238088",
+      "attention_score": 0.010287423618137836,
+      "attention_normalized": 0.01907530448324943
+    },
+    {
+      "source": "3322431187",
+      "target": "3232238088",
+      "attention_score": 0.010635776445269585,
+      "attention_normalized": 0.01972123260789894
+    },
+    {
+      "source": "3586400968",
+      "target": "3232238088",
+      "attention_score": 0.009538598358631134,
+      "attention_normalized": 0.01768680621973336
+    },
+    {
+      "source": "2917644623",
+      "target": "3232238088",
+      "attention_score": 0.010077595710754395,
+      "attention_normalized": 0.01868623416098086
+    },
+    {
+      "source": "2734166040",
+      "target": "3232238088",
+      "attention_score": 0.010278461501002312,
+      "attention_normalized": 0.019058686608889396
+    },
+    {
+      "source": "1255756243",
+      "target": "3232238088",
+      "attention_score": 0.009682200849056244,
+      "attention_normalized": 0.017953079033130707
+    },
+    {
+      "source": "1981468055",
+      "target": "3232238088",
+      "attention_score": 0.010279107838869095,
+      "attention_normalized": 0.019059885071406893
+    },
+    {
+      "source": "2322335252",
+      "target": "3232238088",
+      "attention_score": 0.009911859408020973,
+      "attention_normalized": 0.018378920050478594
+    },
+    {
+      "source": "3232238083",
+      "target": "3232238094",
+      "attention_score": 0.07587617635726929,
+      "attention_normalized": 0.14069228805624273
+    },
+    {
+      "source": "3507430421",
+      "target": "3232238088",
+      "attention_score": 0.010019849054515362,
+      "attention_normalized": 0.018579158269918402
+    },
+    {
+      "source": "642286235",
+      "target": "3232238088",
+      "attention_score": 0.0105115482583642,
+      "attention_normalized": 0.019490884312875472
+    },
+    {
+      "source": "3232238095",
+      "target": "1307474396",
+      "attention_score": 0.26175200939178467,
+      "attention_normalized": 0.48534982747745137
+    },
+    {
+      "source": "3339754857",
+      "target": "3232238088",
+      "attention_score": 0.009827510453760624,
+      "attention_normalized": 0.018222517238162882
+    },
+    {
+      "source": "3459690852",
+      "target": "3232238088",
+      "attention_score": 0.008405923843383789,
+      "attention_normalized": 0.015586561099014684
+    },
+    {
+      "source": "3164938487",
+      "target": "3232238088",
+      "attention_score": 0.010022712871432304,
+      "attention_normalized": 0.018584468460467827
+    },
+    {
+      "source": "3325632031",
+      "target": "3232238088",
+      "attention_score": 0.009228667244315147,
+      "attention_normalized": 0.017112120993007914
+    },
+    {
+      "source": "3422748649",
+      "target": "3232238088",
+      "attention_score": 0.006081942468881607,
+      "attention_normalized": 0.011277352692949832
+    },
+    {
+      "source": "1307474396",
+      "target": "3232238099",
+      "attention_score": 0.2575235664844513,
+      "attention_normalized": 0.4775092991837384
+    },
+    {
+      "source": "2734166046",
+      "target": "3232238088",
+      "attention_score": 0.009776003658771515,
+      "attention_normalized": 0.018127011518378845
+    },
+    {
+      "source": "3322431188",
+      "target": "3232238088",
+      "attention_score": 0.010537976399064064,
+      "attention_normalized": 0.019539888305467674
+    },
+    {
+      "source": "3335743055",
+      "target": "3232238088",
+      "attention_score": 0.009634779766201973,
+      "attention_normalized": 0.01786514918519718
+    },
+    {
+      "source": "1347602782",
+      "target": "3232238088",
+      "attention_score": 0.010008544661104679,
+      "attention_normalized": 0.018558197264100868
+    },
+    {
+      "source": "1757500217",
+      "target": "3232238088",
+      "attention_score": 0.010020904242992401,
+      "attention_normalized": 0.018581114837688317
+    },
+    {
+      "source": "3109456672",
+      "target": "3232238088",
+      "attention_score": 0.009185309521853924,
+      "attention_normalized": 0.017031725571535247
+    },
+    {
+      "source": "3630750433",
+      "target": "3232238088",
+      "attention_score": 0.009573617950081825,
+      "attention_normalized": 0.017751740783973832
+    },
+    {
+      "source": "1540932570",
+      "target": "3232238088",
+      "attention_score": 0.009770946577191353,
+      "attention_normalized": 0.018117634498969616
+    },
+    {
+      "source": "3706968887",
+      "target": "3232238088",
+      "attention_score": 0.01006744522601366,
+      "attention_normalized": 0.018667412773404217
+    },
+    {
+      "source": "3354669106",
+      "target": "3232238088",
+      "attention_score": 0.007056661415845156,
+      "attention_normalized": 0.01308471101599394
+    },
+    {
+      "source": "3236983606",
+      "target": "3232238088",
+      "attention_score": 0.009953121654689312,
+      "attention_normalized": 0.018455429966671197
+    },
+    {
+      "source": "3237797524",
+      "target": "3232238088",
+      "attention_score": 0.009630773216485977,
+      "attention_normalized": 0.017857720099101693
+    },
+    {
+      "source": "3338620214",
+      "target": "3232238088",
+      "attention_score": 0.009701034054160118,
+      "attention_normalized": 0.01798800022769671
+    },
+    {
+      "source": "3237164704",
+      "target": "3232238088",
+      "attention_score": 0.00995093397796154,
+      "attention_normalized": 0.018451373499158805
+    },
+    {
+      "source": "1604542246",
+      "target": "3232238088",
+      "attention_score": 0.009018991142511368,
+      "attention_normalized": 0.016723332154010742
+    },
+    {
+      "source": "3226661406",
+      "target": "3232238088",
+      "attention_score": 0.009777789935469627,
+      "attention_normalized": 0.018130323695768696
+    },
+    {
+      "source": "3495029024",
+      "target": "3232238088",
+      "attention_score": 0.009579822421073914,
+      "attention_normalized": 0.017763245333385302
+    },
+    {
+      "source": "3232238083",
+      "target": "3232238088",
+      "attention_score": 0.005899431649595499,
+      "attention_normalized": 0.010938934680957826
+    },
+    {
+      "source": "3107017800",
+      "target": "3232238094",
+      "attention_score": 0.24196219444274902,
+      "attention_normalized": 0.44865485312503445
+    },
+    {
+      "source": "1845030178",
+      "target": "3232238088",
+      "attention_score": 0.009844030253589153,
+      "attention_normalized": 0.01825314883489969
+    },
+    {
+      "source": "1163479618",
+      "target": "3232238088",
+      "attention_score": 0.010218419134616852,
+      "attention_normalized": 0.01894735393093122
+    },
+    {
+      "source": "3263077654",
+      "target": "3232238088",
+      "attention_score": 0.009694544598460197,
+      "attention_normalized": 0.017975967249567154
+    },
+    {
+      "source": "89080202",
+      "target": "3232238088",
+      "attention_score": 0.009836707264184952,
+      "attention_normalized": 0.018239570289114285
+    },
+    {
+      "source": "3422748650",
+      "target": "3232238088",
+      "attention_score": 0.009144571609795094,
+      "attention_normalized": 0.01695618789510828
+    },
+    {
+      "source": "3507430432",
+      "target": "3232238088",
+      "attention_score": 0.009845040738582611,
+      "attention_normalized": 0.0182550225118903
+    },
+    {
+      "source": "3160156241",
+      "target": "3232238099",
+      "attention_score": 0.18403023481369019,
+      "attention_normalized": 0.34123536596721443
+    },
+    {
+      "source": "2990459084",
+      "target": "3232238088",
+      "attention_score": 0.00877655390650034,
+      "attention_normalized": 0.01627379646201939
+    },
+    {
+      "source": "3341198390",
+      "target": "3232238088",
+      "attention_score": 0.01066061295568943,
+      "attention_normalized": 0.019767285343369526
+    },
+    {
+      "source": "531386784",
+      "target": "3232238088",
+      "attention_score": 0.009343680925667286,
+      "attention_normalized": 0.017325383426146503
+    },
+    {
+      "source": "2322346596",
+      "target": "3232238088",
+      "attention_score": 0.009764540940523148,
+      "attention_normalized": 0.018105756941051262
+    },
+    {
+      "source": "1249232742",
+      "target": "3232238088",
+      "attention_score": 0.009850496426224709,
+      "attention_normalized": 0.01826513864074836
+    },
+    {
+      "source": "1255800125",
+      "target": "3232238088",
+      "attention_score": 0.009931780397891998,
+      "attention_normalized": 0.01841585825400776
+    },
+    {
+      "source": "3226661397",
+      "target": "3232238088",
+      "attention_score": 0.00998399592936039,
+      "attention_normalized": 0.018512678138022078
+    },
+    {
+      "source": "400788170",
+      "target": "3232238088",
+      "attention_score": 0.008889769203960896,
+      "attention_normalized": 0.016483724268182065
+    },
+    {
+      "source": "3232238085",
+      "target": "3232238099",
+      "attention_score": 0.05559512972831726,
+      "attention_normalized": 0.10308645456026898
+    },
+    {
+      "source": "1073478668",
+      "target": "3232238088",
+      "attention_score": 0.009887708351016045,
+      "attention_normalized": 0.0183341383069574
+    },
+    {
+      "source": "3350970757",
+      "target": "3232238088",
+      "attention_score": 0.00946125853806734,
+      "attention_normalized": 0.017543399990856662
+    },
+    {
+      "source": "3229884699",
+      "target": "3232238088",
+      "attention_score": 0.009316639043390751,
+      "attention_normalized": 0.017275241412230052
+    },
+    {
+      "source": "89080204",
+      "target": "3232238088",
+      "attention_score": 0.00918835960328579,
+      "attention_normalized": 0.01703738114033179
+    },
+    {
+      "source": "3226661468",
+      "target": "3232238088",
+      "attention_score": 0.009826608002185822,
+      "attention_normalized": 0.0182208438805556
+    },
+    {
+      "source": "3104812935",
+      "target": "3232238088",
+      "attention_score": 0.00982645433396101,
+      "attention_normalized": 0.01822055894350173
+    },
+    {
+      "source": "3275108580",
+      "target": "3232238088",
+      "attention_score": 0.009889398701488972,
+      "attention_normalized": 0.018337272614549985
+    },
+    {
+      "source": "633034282",
+      "target": "3232238088",
+      "attention_score": 0.009645795449614525,
+      "attention_normalized": 0.017885574854731683
+    },
+    {
+      "source": "3109456669",
+      "target": "3232238088",
+      "attention_score": 0.009675795212388039,
+      "attention_normalized": 0.017941201475212352
+    },
+    {
+      "source": "2032689440",
+      "target": "3232238088",
+      "attention_score": 0.009736730717122555,
+      "attention_normalized": 0.018054190241865452
+    },
+    {
+      "source": "2734651385",
+      "target": "3232238088",
+      "attention_score": 0.010125525295734406,
+      "attention_normalized": 0.018775106891529014
+    },
+    {
+      "source": "1845030180",
+      "target": "3232238088",
+      "attention_score": 0.009414122439920902,
+      "attention_normalized": 0.017455998571641224
+    },
+    {
+      "source": "2303360995",
+      "target": "3232238088",
+      "attention_score": 0.01001790165901184,
+      "attention_normalized": 0.018575547340344792
+    },
+    {
+      "source": "2627389988",
+      "target": "3232238088",
+      "attention_score": 0.009608153253793716,
+      "attention_normalized": 0.0178157773647718
+    },
+    {
+      "source": "3350970754",
+      "target": "3232238088",
+      "attention_score": 0.00697550643235445,
+      "attention_normalized": 0.012934230577170667
+    },
+    {
+      "source": "2627389984",
+      "target": "3232238088",
+      "attention_score": 0.009576547890901566,
+      "attention_normalized": 0.017757173583800984
+    },
+    {
+      "source": "642286219",
+      "target": "3232238088",
+      "attention_score": 0.009882642887532711,
+      "attention_normalized": 0.018324745745527053
+    },
+    {
+      "source": "1100586627",
+      "target": "3232238088",
+      "attention_score": 0.00883565004914999,
+      "attention_normalized": 0.016383374618482213
+    },
+    {
+      "source": "3339754571",
+      "target": "3232238088",
+      "attention_score": 0.009433535858988762,
+      "attention_normalized": 0.017491995619446997
+    },
+    {
+      "source": "3495029040",
+      "target": "3232238088",
+      "attention_score": 0.00962805189192295,
+      "attention_normalized": 0.017852674122911315
+    },
+    {
+      "source": "3350970764",
+      "target": "3232238088",
+      "attention_score": 0.005803449545055628,
+      "attention_normalized": 0.010760961270218418
+    },
+    {
+      "source": "3109456698",
+      "target": "3232238088",
+      "attention_score": 0.005905110854655504,
+      "attention_normalized": 0.010949465263712424
+    },
+    {
+      "source": "1970871300",
+      "target": "3232238088",
+      "attention_score": 0.009627921506762505,
+      "attention_normalized": 0.017852432358138333
+    },
+    {
+      "source": "3338456601",
+      "target": "3232238130",
+      "attention_score": 0.33693110942840576,
+      "attention_normalized": 0.6247495719816833
+    },
+    {
+      "source": "3160156241",
+      "target": "3232238088",
+      "attention_score": 0.00939895585179329,
+      "attention_normalized": 0.01742787614786972
+    },
+    {
+      "source": "676564945",
+      "target": "3232238094",
+      "attention_score": 0.19267871975898743,
+      "attention_normalized": 0.3572716924347548
+    },
+    {
+      "source": "1093954771",
+      "target": "3232238083",
+      "attention_score": 0.2480132281780243,
+      "attention_normalized": 0.45987489375165763
+    },
+    {
+      "source": "3232238099",
+      "target": "3232238105",
+      "attention_score": 0.09263826161623001,
+      "attention_normalized": 0.17177313900177232
+    },
+    {
+      "source": "3232238088",
+      "target": "3232238085",
+      "attention_score": 0.07777618616819382,
+      "attention_normalized": 0.14421535340378475
+    },
+    {
+      "source": "3232238089",
+      "target": "3232238088",
+      "attention_score": 0.006515582092106342,
+      "attention_normalized": 0.012081422609389289
+    },
+    {
+      "source": "3232238092",
+      "target": "3232238088",
+      "attention_score": 0.0064753154292702675,
+      "attention_normalized": 0.01200675873992753
+    },
+    {
+      "source": "3232238096",
+      "target": "3232238088",
+      "attention_score": 0.006244491785764694,
+      "attention_normalized": 0.011578757381643925
+    },
+    {
+      "source": "3232238097",
+      "target": "3232238088",
+      "attention_score": 0.006207431200891733,
+      "attention_normalized": 0.011510038335260667
+    },
+    {
+      "source": "3232238088",
+      "target": "3232238099",
+      "attention_score": 0.05910048261284828,
+      "attention_normalized": 0.10958620377597879
+    },
+    {
+      "source": "3232238099",
+      "target": "3232238088",
+      "attention_score": 0.006376775447279215,
+      "attention_normalized": 0.011824042422409588
+    },
+    {
+      "source": "3232238105",
+      "target": "3232238088",
+      "attention_score": 0.006386492867022753,
+      "attention_normalized": 0.011842060805561683
+    },
+    {
+      "source": "3232238088",
+      "target": "3232238105",
+      "attention_score": 0.10112551599740982,
+      "attention_normalized": 0.1875105060586082
+    },
+    {
+      "source": "3232238130",
+      "target": "3232238088",
+      "attention_score": 0.005896637216210365,
+      "attention_normalized": 0.010933753143805453
+    },
+    {
+      "source": "3232238131",
+      "target": "3232238088",
+      "attention_score": 0.006723989732563496,
+      "attention_normalized": 0.012467859422523596
+    },
+    {
+      "source": "3232238088",
+      "target": "3232238094",
+      "attention_score": 0.09083478897809982,
+      "attention_normalized": 0.16842907629214612
+    },
+    {
+      "source": "3232238105",
+      "target": "3232238099",
+      "attention_score": 0.0535559356212616,
+      "attention_normalized": 0.09930530877135124
+    },
+    {
+      "source": "3559743775",
+      "target": "3232238105",
+      "attention_score": 0.5393058657646179,
+      "attention_normalized": 0.9999999981457647
+    },
+    {
+      "source": "3524166726",
+      "target": "3232238088",
+      "attention_score": 0.009798439219594002,
+      "attention_normalized": 0.018168612328244092
+    },
+    {
+      "source": "3335742996",
+      "target": "3232238088",
+      "attention_score": 0.009534040465950966,
+      "attention_normalized": 0.017678354814026406
+    },
+    {
+      "source": "3160156241",
+      "target": "3232238085",
+      "attention_score": 0.17582190036773682,
+      "attention_normalized": 0.3260151821127415
+    },
+    {
+      "source": "3350970625",
+      "target": "3232238088",
+      "attention_score": 0.005834593437612057,
+      "attention_normalized": 0.010818709376582004
+    },
+    {
+      "source": "3354669368",
+      "target": "3232238088",
+      "attention_score": 0.0073129553347826,
+      "attention_normalized": 0.013559940259233946
+    },
+    {
+      "source": "2886729729",
+      "target": "3232238088",
+      "attention_score": 0.005900286603718996,
+      "attention_normalized": 0.010940519967112093
+    },
+    {
+      "source": "2886729729",
+      "target": "3232238094",
+      "attention_score": 0.07604462653398514,
+      "attention_normalized": 0.1410046343278055
+    },
+    {
+      "source": "2886729729",
+      "target": "3232238085",
+      "attention_score": 0.06524661183357239,
+      "attention_normalized": 0.12098257381288514
+    },
+    {
+      "source": "1841922617",
+      "target": "3232238085",
+      "attention_score": 0.2384648472070694,
+      "attention_normalized": 0.4421699482663857
+    },
+    {
+      "source": "3232238081",
+      "target": "3232238130",
+      "attention_score": 0.043337903916835785,
+      "attention_normalized": 0.08035867322717404
+    },
+    {
+      "source": "3232238094",
+      "target": "1307474396",
+      "attention_score": 0.26112717390060425,
+      "attention_normalized": 0.48419123542480247
+    },
+    {
+      "source": "1841922618",
+      "target": "3232238085",
+      "attention_score": 0.23950867354869843,
+      "attention_normalized": 0.44410544796322954
+    },
+    {
+      "source": "1249294975",
+      "target": "3232238088",
+      "attention_score": 0.009001040831208229,
+      "attention_normalized": 0.016690048052336075
+    },
+    {
+      "source": "2574811290",
+      "target": "3232238088",
+      "attention_score": 0.00979345478117466,
+      "attention_normalized": 0.01815937000635124
+    },
+    {
+      "source": "3507430434",
+      "target": "3232238088",
+      "attention_score": 0.009838765487074852,
+      "attention_normalized": 0.01824338671874493
+    },
+    {
+      "source": "1307474396",
+      "target": "3232238094",
+      "attention_score": 0.2353379726409912,
+      "attention_normalized": 0.4363719869261229
+    },
+    {
+      "source": "3237214788",
+      "target": "3232238088",
+      "attention_score": 0.009778698906302452,
+      "attention_normalized": 0.018132009141614627
+    },
+    {
+      "source": "2214404854",
+      "target": "3232238083",
+      "attention_score": 0.2483387291431427,
+      "attention_normalized": 0.4604784491460596
+    },
+    {
+      "source": "3232238130",
+      "target": "3232238085",
+      "attention_score": 0.06509067118167877,
+      "attention_normalized": 0.12069342314439876
+    }
+  ],
+  "metrics": {
+    "tn": 1861,
+    "fp": 20,
+    "fn": 0,
+    "tp": 2,
+    "accuracy": 0.9893786510886883,
+    "precision": 0.09090909090909091,
+    "recall": 1.0,
+    "f1": 0.16666666666666666,
+    "pr_auc": 0.5666666666666667
+  }
+}
